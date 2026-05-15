@@ -34,7 +34,7 @@ gix-worktree = { version = "^0.52.0", path = "../../gix-worktree", optional = tr
 gix-fs = { version = "^0.21.1", path = "../../gix-fs", optional = true }
 gix-tempfile = { version = "^23.0.0", path = "../../gix-tempfile", default-features = false, features = ["signals"] }
 
-fastrand = "2.0.0"
+fastrand = "2.4.1"
 bstr = { version = "1.12.0", default-features = false }
 crc = "3.4.0"
 tempfile = "3.26.0"
